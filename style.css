@@ -191,3 +191,20 @@ body{
         opacity: 1;
     }
 }
+
+/*=============== BREAKPOINTS ===============*/
+ /* For small devices */
+ @media screen and (min-width: 340px) {
+    .container {
+        margin: 0 30px;
+    }
+    
+}
+
+/* For medium devices 
+@media screen and (min-width: 576px) {
+    .container {
+        margin: 0 30px;
+    }
+}
+*/
